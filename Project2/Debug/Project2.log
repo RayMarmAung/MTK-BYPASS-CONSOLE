@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\crystalray\source\repos\project2\project2\main.cpp(49): warning C4244: '=': conversion from 'json5pp::value::number_type' to 'uint32_t', possible loss of data
+c:\users\crystalray\source\repos\project2\project2\main.cpp(51): warning C4244: '=': conversion from 'json5pp::value::number_type' to 'uint32_t', possible loss of data
+c:\users\crystalray\source\repos\project2\project2\main.cpp(55): warning C4244: '=': conversion from 'json5pp::value::number_type' to 'int', possible loss of data
+c:\users\crystalray\source\repos\project2\project2\main.cpp(57): warning C4244: '=': conversion from 'json5pp::value::number_type' to 'int', possible loss of data
+c:\users\crystalray\source\repos\project2\project2\main.cpp(502): warning C4309: '=': truncation of constant value
+c:\users\crystalray\source\repos\project2\project2\main.cpp(503): warning C4309: '=': truncation of constant value
+c:\users\crystalray\source\repos\project2\project2\main.cpp(505): warning C4309: '=': truncation of constant value
+c:\users\crystalray\source\repos\project2\project2\main.cpp(507): warning C4309: '=': truncation of constant value
+c:\users\crystalray\source\repos\project2\project2\main.cpp(566): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\crystalray\source\repos\project2\project2\main.cpp(665): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\CrystalRAY\source\repos\Project2\Debug\bypass.exe
